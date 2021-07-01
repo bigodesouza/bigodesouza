@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigodesouza
 - 👀 I’m interested in ...
-Python and Devops, Iam begginer in this area and I like to receive a suggestions,helps.
+Python and Devops, Iam begginer in this area and I would like to receive a suggestions,helps and help people that I can help.
 I have a experience with TOTVS\Protheus ADVPL, 
 Thank you for everyone
 - 🌱 I’m currently learning ...
